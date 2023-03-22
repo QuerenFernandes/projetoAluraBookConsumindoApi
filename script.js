@@ -25,12 +25,3 @@ async function buscaEndereco(cep) {
 
 var cep = document.getElementById('cep');
 cep.addEventListener("focusout", () => buscaEndereco(cep.value));
-
-
-
-/* CÓDIGO PRO CASO DE SER NECESSÁRIO FAZER VÁRIAS REQUISIÇÕES AO MESMO TEMPO.
-let ceps = ['01001000','01001002'];
-let conjuntoCeps = ceps.map(valores => buscaEndereco(cep));
-
-Promise.all(conjuntoCeps).then(respostas => console.log(respostas));
- */
