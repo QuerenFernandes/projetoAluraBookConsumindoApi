@@ -2,7 +2,7 @@
 
 Nesse projeto, fiz o consumo da API do VIA CEP, onde era possível validar o CEP preenchido pelo usuário bem como o preenchimento automático de algumas informações quando um CEP válido fosse inserido. 
 
-Você pode acessar o projeto em: https://querenhapuquerocha.github.io/projetoAluraBookConsumindoApi/
+Você pode acessar o projeto em: https://querenfernandes.github.io/projetoAluraBookConsumindoApi/
 
 Exemplo de CEP validado:
 ![1](https://user-images.githubusercontent.com/95857175/226866425-ea4aae3e-9a5c-4cff-bab6-0e487faea130.png#vitrinedev)
